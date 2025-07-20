@@ -1,0 +1,47 @@
+# Node modules (if using npm or yarn for dependencies)
+node_modules/
+
+# Build or output directories
+dist/
+build/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VS Code settings
+.vscode/
+.history/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables (if any)
+.env
+.env.local
+.env.*.local
+
+# Cache directories
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+.svelte-kit/
+.angular/
+
+# Framework-specific
+coverage/
+storybook-static/
+.cypress/
+playwright-report/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Mac and Windows junk files
+ehthumbs.db
+desktop.ini

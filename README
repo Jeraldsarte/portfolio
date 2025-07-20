@@ -1,0 +1,69 @@
+# My Programming Portfolio
+
+This repository contains my personal portfolio website, which showcases all my programming projects, skills, and accomplishments. It is designed as a central hub where I can present my work, including web applications, Unity games, IoT projects, and other software engineering efforts.
+
+---
+
+## 🌟 Features
+
+* **Showcase Projects:** Highlights my work, such as Unity games, IoT systems, and mobile apps.
+* **Responsive Design:** Fully mobile-friendly for all devices.
+* **Sections:** About Me, Projects, Skills, and Contact.
+* **Built with Simplicity:** Created using **HTML**, **CSS**, and **JavaScript** (with plans to expand).
+
+---
+
+## 🛠 Tech Stack
+
+* **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
+* **Tools:** VS Code, Git, GitHub Pages
+* **Version Control:** Git and GitHub
+* **Hosting:** GitHub Pages (Free hosting for static sites)
+
+---
+
+## 🚀 Deployment
+
+To view my portfolio:
+
+1. Visit: `https://<your-github-username>.github.io/<repo-name>/`
+2. Or clone this repository and open `index.html` in your browser.
+
+---
+
+## 📦 Project Structure
+
+```
+.
+├── index.html        # Main website file
+├── style.css         # Styling for the portfolio
+├── script.js         # JavaScript for interactivity
+├── config.js         # Configurable constants (contact info, links)
+├── images/           # Project images/screenshots
+└── README.md         # Project documentation
+```
+
+---
+
+## 📖 About This Portfolio
+
+This portfolio is an ongoing project to centralize my programming work. It will grow as I add:
+
+* Unity and game development projects
+* IoT and hardware projects
+* Mobile and web applications
+* Experimental AI-based solutions
+
+---
+
+## 🤖 AI Assistance
+
+This portfolio was crafted with the help of **ChatGPT (AI)** for brainstorming, coding templates, and best practices. I actively collaborated with AI to speed up development and design ideas.
+
+---
+
+## 📧 Contact
+
+* **Email:** [your-email@example.com](mailto:your-email@example.com)
+* **GitHub:** [https://github.com/your-username](https://github.com/your-username)
+* **LinkedIn:** [https://linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
